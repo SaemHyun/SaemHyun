@@ -1,22 +1,12 @@
-### Hi there 👋
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaemHyun)](https://github.com/SaemHyun/github-readme-stats)
 
 
-
-<!--
-**SaemHyun/SaemHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+consr thems ={
+    gruvbox_light: {
+    title_color: "b57614",
+    icon_color: "af3a03",
+    text_color: "427b58",
+    bg_color: "fbf1c7",}
+}module.exports = themes;
