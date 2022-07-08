@@ -1,6 +1,12 @@
+<div align ="center">
+HELLO! 
 
+</div>
+<hr>
+<div align = "center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaemHyun)](https://github.com/SaemHyun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaemHyun&layout=compact)](https://github.com/SaemHyun/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaemHyun&show_icons=true&theme=dracula)
 
+</div>
