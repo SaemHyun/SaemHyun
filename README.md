@@ -1,6 +1,6 @@
 <div align ="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=center&text=SAEM-HYUN&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=center&text=SAEM-HYUN&fontSize=30" />
 
   HELLO!🙋
 
